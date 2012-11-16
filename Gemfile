@@ -1,5 +1,7 @@
 source 'http://rubygems.org'
 
+gem 'newrelic_rpm'
+gem 'ey_config'
 gem "rails", "~> 3.2.8"
 
 gem 'simple_form'
